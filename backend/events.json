@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "1",
+    "title": "Annual Sports Meet 2025",
+    "date": "2025-03-15",
+    "description": "Join us for a day of athleticism and team spirit at the college grounds. Track and field events start at 8:00 AM.",
+    "category": "Sports"
+  },
+  {
+    "_id": "2",
+    "title": "Sinhala & Tamil New Year",
+    "date": "2025-04-10",
+    "description": "Celebrating the cultural heritage with traditional games, food table, and avurudu kumara/kumariya selection.",
+    "category": "Cultural"
+  },
+  {
+    "_id": "3",
+    "title": "Science & Art Exhibition",
+    "date": "2025-05-20",
+    "description": "A showcase of innovation and creativity by our talented students. Open for public viewing.",
+    "category": "Academic"
+  }
+]

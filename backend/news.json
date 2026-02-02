@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "1",
+    "title": "College Science Fair Winners",
+    "date": "2025-02-10",
+    "description": "Congratulations to our students who won first place in the National Science Fair with their innovative renewable energy project.",
+    "category": "Academic"
+  },
+  {
+    "_id": "2",
+    "title": "New Library Wing Opening",
+    "date": "2025-01-25",
+    "description": "The new state-of-the-art library wing is now open for students, featuring digital archives and study pods.",
+    "category": "Infrastructure"
+  },
+  {
+    "_id": "3",
+    "title": "Charity Walk 2024 Success",
+    "date": "2024-12-20",
+    "description": "Our annual charity walk raised over 1 million rupees for the local community hospital. Thank you to all who participated!",
+    "category": "Community"
+  }
+]
