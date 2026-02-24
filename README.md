@@ -1,16 +1,19 @@
-# React + Vite
+# 🏫 Subarthi College Official Website 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Subarthi College වෙනුවෙන් නිර්මාණය කරන ලද අති නවීන සහ වේගවත් නිල වෙබ් අඩවිය. මෙය සාමාන්‍ය පාසල් වෙබ් අඩවියකට වඩා තාක්ෂණිකව ඉතාමත් ඉදිරියෙන් පවතී.
 
-Currently, two official plugins are available:
+## 🛠️ Technology Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* **Core:** React.js (Powered by Vite for blazing fast development)
+* **Animations:** Framer Motion (Smooth and cinematic transitions)
+* **Styling:** CSS / Tailwind CSS
+* **Deployment:** Vercel (For high availability and performance)
 
-## React Compiler
+## ✨ Key Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **High Speed:** Vite සහ React වල එකතුව නිසා ඉතාමත් ඉක්මනින් load වේ.
+* **Cinematic Feel:** Framer Motion භාවිතයෙන් ඇස් වලට ප්‍රියජනක animations ඇතුළත් කර ඇත.
+* **Modern UI:** පාරිභෝගිකයාට පහසුවෙන් තොරතුරු සොයාගත හැකි ලෙස නිර්මාණය කර ඇත.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Performance
+සාම්ප්‍රදායික පාසල් වෙබ් අඩවි වලට වඩා මෙහි Performance Score එක ඉහළ මට්ටමක පවතී.
